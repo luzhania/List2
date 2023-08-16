@@ -7,6 +7,7 @@ template<typename T>
 
 class List2
 {
+    // Class comment
     private:
         T arr[CAPACITY];
         int first;
